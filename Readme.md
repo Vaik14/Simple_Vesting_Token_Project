@@ -5,6 +5,7 @@ Simple_Vesting is a decentralized token project that includes a token with econo
 ## Table of Contents
 
 - [Documentation](#documentation)
+- [Requirements](#Requirements)
 - [Usage](#usage)
   - [Build](#build)
   - [Test](#test)
@@ -21,6 +22,16 @@ Simple_Vesting is a decentralized token project that includes a token with econo
 ## Documentation
 
 This repository contains the code for a token and a staking contract.
+
+
+## Requirements
+
+Ensure the following prerequisites are installed:
+
+- **Git:** Install the MetaMask browser extension.
+- **Foundry:** You'll know you did it right if you can run forge --version and you see a response like forge 0.2.0 
+
+
 
 ## Usage
 
